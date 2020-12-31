@@ -131,6 +131,8 @@ cc_library {
 
     defaults: [
         "libcameraservice_deps",
+        "uses_miui_camera_defaults",
+        
     ],
     // Camera service source
 
